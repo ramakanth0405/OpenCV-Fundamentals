@@ -1,0 +1,12 @@
+[project]
+name = "open-cv"
+version = "0.1.0"
+description = "OpenCV Fundamentals for Image Processing"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
+    "opencv-python>=5.0.0.93",
+]
